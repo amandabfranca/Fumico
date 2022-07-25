@@ -1,5 +1,5 @@
 
-## End Points:
+## End Points
 Requisições para a API devem seguir os padrões:
 | Método | End Point | Descrição |
 |---|---|---|
